@@ -1,5 +1,5 @@
 To-Do List Project
 
-Final Project for CS290
+Final Project for CS290 at Oregon State University (Spring 2019)
 
-by Arjun Bhalla, Sneha Shah, Anjali Vasisht
+Completed by Arjun Bhalla and Sneha Shah
