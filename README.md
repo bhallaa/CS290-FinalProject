@@ -6,6 +6,8 @@ The project chosen was to create a To-Do List website using HTML, CSS, JavaScrip
 
 Completed by Arjun Bhalla and Sneha Shah
 
+
 Division of work:
 Arjun: Design, HTML, JavaScript, Express, MongoDB, NodeJS
+
 Sneha: Design, CSS
